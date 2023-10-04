@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "smartbin-c4117": {
+      "hosting": {
+        "smartbin": [
+          "smartbindiop-sebastiao"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "smartbin-c4117"
+  }
+}
